@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f5dd;
+}
+div {
+    height: 130px;
+    width: 130px;
+}
+#czarny {
+    background-color: rgba(0,0,0,99%);
+}
+#grafit {
+    background-color: rgba(0,0,0,70%);
+}
+#szary {
+    background-color: rgba(0,0,0,40%);
+}
+#siwy {
+    background-color: rgba(0,0,0,20%);
+}
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
