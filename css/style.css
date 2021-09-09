@@ -4,6 +4,9 @@ body {
 div {
     height: 130px;
     width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
 }
 #czarny {
     background-color: rgba(0,0,0,99%);
@@ -16,8 +19,4 @@ div {
 }
 #siwy {
     background-color: rgba(0,0,0,20%);
-}
-div {
-    margin-left: auto;
-    margin-right: auto;
 }
